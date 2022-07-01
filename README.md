@@ -8,7 +8,8 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=getlaurekt&theme=vue-dark&line_height=27&border_radius=0&hide_border=true)](https://github.com/getlaurekt?tab=repositories)
 
+[![getlaurekt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getlaurekt)](https://github.com/getlaurekt?tab=repositories)
+
 [![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=getlaurekt&theme=vue-dark&line_height=27&border_radius=0&hide_border=true)](https://github.com/getlaurekt?tab=repositories)
 
-[![getlaurekt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getlaurekt)](https://github.com/getlaurekt?tab=repositories)
 </div>
