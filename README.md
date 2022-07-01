@@ -12,4 +12,6 @@
 
 [![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=getlaurekt&theme=vue-dark&line_height=27&border_radius=0&hide_border=true)](https://github.com/getlaurekt?tab=repositories)
 
+[![wakatime](https://wakatime.com/badge/user/01c2c3a6-0340-4383-a046-83e94618e543.svg)](https://wakatime.com/@01c2c3a6-0340-4383-a046-83e94618e543)
+
 </div>
